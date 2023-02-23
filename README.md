@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm a versatile software developer with experience in:<br>📱 Flutter, Dart<br>💻 ReactJS, Java with SpringBoot, MySQL, C++<br>☁️ Google Cloud<br>🔍 Data structures and Digital Algorithms<br><br>🎨 I'm also have design experience with:<br>🎨 Canva, Figma<br>📷 Illustrator<br><br>🚀 My passion lies in building applications, and I've worked on projects ranging from:<br>🌐 Front-end web development<br>🗃️ Back-end server development<br>📱 Mobile app development<br><br>🌱 Up for new challenges and ready collaborate and grow .<br>📫 Reach out to me at gmabhishek2004@gmail.com
+👋 Hi, I'm a versatile software developer with experience in:<br>&nbsp📱 Flutter, Dart<br>&nbsp💻 ReactJS, Java with SpringBoot, MySQL, C++<br>&nbsp☁️ Google Cloud<br>&nbsp🔍 Data structures and Digital Algorithms<br><br>🎨 I'm also have design experience with:<br>&nbsp🎨 Canva, Figma<br>&nbsp📷 Illustrator<br><br>🚀 My passion lies in building applications, and I've worked on projects ranging from:<br>&nbsp🌐 Front-end web development<br>&nbsp🗃️ Back-end server development<br>&nbsp📱 Mobile app development with Flutter<br><br>🌱 Up for new challenges and ready collaborate and grow .<br>📫 Reach out to me at gmabhishek2004@gmail.com
 
 
 ## 🌐 Socials:
