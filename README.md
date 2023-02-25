@@ -47,7 +47,7 @@
 
 
 
-<div align="center"  style="border: 2px solid #FFFFFF;"><img style="border: 2px solid #FFFFFF;" src="https://spotify-github-profile.vercel.app/api/view?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" style="border: 2px solid #ffffff;"/></div>  
 
 <br/>  
 
