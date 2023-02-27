@@ -48,7 +48,7 @@
 
 
 <!--<div align="center" style="border: 2px solid #ffffff;" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>-->  
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" /></div>   
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]" /></div>   
 
 <br/>  
 
