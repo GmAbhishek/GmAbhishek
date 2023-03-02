@@ -32,16 +32,16 @@
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/Gm_Abhishek_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0xllRgO6v0VXV_I2ED9xMe4gRlt02v3WQ8SSoesvhrQ&s" />
 </a>
 <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png" />
 </a>
 <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src="https://www.ipreciation.com/wp-content/uploads/2020/03/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" />
 </a>  
 </div>  
-  
+
 
 <br/>  
 
