@@ -33,10 +33,10 @@
 <div align="left">
 <a href="https://twitter.com/Gm_Abhishek_" target="_blank">
 <img src="https://www.transparentpng.com/download/twitter/bird-twitter-socialmedia-icons-png-5.png" height="50" margin="10px" alt="Twitter" />
-</a>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
 <img  src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"  height="50" margin="10px" alt="LinkedIn"/>
-</a>
+</a>&nbsp;
 <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
 <img src="https://straightarrowfilms.com/wp-content/uploads/2020/05/new-instagram-logo-png-transparent-light-350x350.png"  height="50" margin="10px" alt="Instagram"/>
 </a>  
