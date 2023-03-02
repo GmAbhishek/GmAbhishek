@@ -17,7 +17,7 @@
 
 
 ## My Skill Set  
-<div align="center">  
+<div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> &nbsp;
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a> &nbsp; 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  &nbsp;
@@ -32,13 +32,13 @@
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/Gm_Abhishek_" target="_blank">
-<img style="margin: 20px;" src="https://www.transparentpng.com/download/twitter/bird-twitter-socialmedia-icons-png-5.png" height="50" alt="Twitter" />
+<img style="margin: 10px" src="https://www.transparentpng.com/download/twitter/bird-twitter-socialmedia-icons-png-5.png" height="50" alt="Twitter" />
 </a>
 <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
-<img style="margin: 20px;" src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"  height="50" alt="LinkedIn"/>
+<img style="margin: 10px" src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"  height="50" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-<img style="margin: 20px;" src="https://straightarrowfilms.com/wp-content/uploads/2020/05/new-instagram-logo-png-transparent-light-350x350.png"  height="50" alt="Instagram"/>
+<img style="margin: 10px" src="https://straightarrowfilms.com/wp-content/uploads/2020/05/new-instagram-logo-png-transparent-light-350x350.png"  height="50" alt="Instagram"/>
 </a>  
 </div>  
 
