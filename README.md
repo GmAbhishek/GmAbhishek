@@ -30,7 +30,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://twitter.com/Gm_Abhishek_" target="_blank">
 <img style="padding: 10px" src="https://www.transparentpng.com/download/twitter/bird-twitter-socialmedia-icons-png-5.png" height="50" alt="Twitter" />
 </a>
