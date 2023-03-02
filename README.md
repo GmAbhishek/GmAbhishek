@@ -32,13 +32,13 @@
 ## Connect with me  
 <div align="center">
 <a href="https://twitter.com/Gm_Abhishek_" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0xllRgO6v0VXV_I2ED9xMe4gRlt02v3WQ8SSoesvhrQ&s" />
+<img style="margin: 10px" src="https://www.transparentpng.com/download/twitter/bird-twitter-socialmedia-icons-png-5.png" height="50" alt="Twitter" />
 </a>
 <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
-<img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png" />
+<img style="margin: 10px" src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"  height="50" alt="Twitter"/>
 </a>
 <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-<img src="https://www.ipreciation.com/wp-content/uploads/2020/03/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png" />
+<img style="margin: 10px" src="https://www.ipreciation.com/wp-content/uploads/2020/03/ew-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png"  height="50" alt="Twitter"/>
 </a>  
 </div>  
 
