@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on web developement with React   
   
 
-- 🌱 I’m currently learning Full stack developement with spring boot and MySQL  
+- 🌱 I’m have learnt Full stack developement with spring boot and MySQL  
   
 
 - 👫 Ready to collabare with light-minded developers  
