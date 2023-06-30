@@ -10,7 +10,7 @@
 - 👫 Ready to collaborate with light-minded developers  
   
 
-- ⚡ Fun fact: I prefer docs over Ai
+- ⚡ Fun fact: I prefer to read docs 
   
 
 <br/>  
