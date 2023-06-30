@@ -1,7 +1,7 @@
 ### <div align="center">I'm Gm_Abhishek, a sophomore at SKCT👨‍💻 developing web and mobile Apps since 2021🚀</div>  
   
 
-- 🔭 I’m currently learning Solidity, Rust 
+- 🔭 I’m currently learning Solidity &#38; Rust 
   
 
 - 🌱 I have learnt Full stack development with React, Spring boot and MySQL  
