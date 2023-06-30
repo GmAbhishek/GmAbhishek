@@ -1,13 +1,13 @@
 ### <div align="center">I'm Gm_Abhishek, a sophomore at SKCT👨‍💻 developing web and mobile Apps since 2021🚀</div>  
   
 
-- 🔭 I’m currently working on web developement with React   
+- 🔭 I’m currently learning Solidity, Rust 
   
 
-- 🌱 I’m have learnt Full stack developement with spring boot and MySQL  
+- 🌱 I have learnt Full stack development with React, Spring boot and MySQL  
   
 
-- 👫 Ready to collabare with light-minded developers  
+- 👫 Ready to collaborate with light-minded developers  
   
 
 - ⚡ Fun fact: I prefer docs over Ai
