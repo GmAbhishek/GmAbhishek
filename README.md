@@ -38,7 +38,7 @@
 <img  src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"  height="50" margin="10px" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-<img src="https://straightarrowfilms.com/wp-content/uploads/2020/05/new-instagram-logo-png-transparent-light-350x350.png"  height="50" margin="10px" alt="Instagram"/>
+<img src="https://www.clipartmax.com/png/middle/25-256843_instagram-logo-%5Bnew%5D-vector-eps-free-download-logo-instagram-logo-vector.png"  height="50" margin="10px" alt="Instagram"/>
 </a>  
 </div>  
 
