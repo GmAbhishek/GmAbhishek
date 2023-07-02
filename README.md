@@ -48,9 +48,7 @@
 ## <div align="center">Tune in with me</div>
   
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&redirect=true"/></a>
-  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/></a>
-
+  <a href="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]"/></a>
 
 </div>  
 
