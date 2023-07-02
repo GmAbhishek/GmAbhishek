@@ -38,7 +38,7 @@
 <img  src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"  height="50" margin="10px" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-<img src="https://www.clipartmax.com/png/middle/25-256843_instagram-logo-%5Bnew%5D-vector-eps-free-download-logo-instagram-logo-vector.png"  height="50" margin="10px" alt="Instagram"/>
+<img src="https://gmabhishek.github.io/Images/Instagram.png"  height="50" margin="10px" alt="Instagram"/>
 </a>  
 </div>  
 
@@ -46,8 +46,7 @@
 <br/>  
 
 ## <div align="center">Tune in with me</div>
-
-<!--<div align="center" style="border: 2px solid #ffffff;" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>-->  
+  
 <div align="center"><a href="https://open.spotify.com/user/31tb2rg3vnytlj3g4rujpcldwrry?si=8dbe1cb692f44097"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></a></div>  
 
 <br/>  
