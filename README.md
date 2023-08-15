@@ -31,9 +31,10 @@
 
 ## Connect with me  
 <div align="left">
-<a href="https://twitter.com/Gm_Abhishek_" target="_blank">
-<img src="https://www.transparentpng.com/download/twitter/bird-twitter-socialmedia-icons-png-5.png" height="50" margin="10px" alt="Twitter" />
+<a href="https://x.com/Gm_Abhishek_" target="_blank">
+<img src="https://github.com/GmAbhishek/GmAbhishek/raw/main/X.svg" height="50" style="margin: 10px;" alt="X SVG" />
 </a>&nbsp;
+
 <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
 <img  src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"  height="50" margin="10px" alt="LinkedIn"/>
 </a>&nbsp;
@@ -43,7 +44,7 @@
 </div>  
 
 <br/>
-
+## Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&theme=holi" alt="Top Languages" />
 </p>
