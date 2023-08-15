@@ -29,27 +29,28 @@
 <br/>  
 
 
-## Connect with me  
-<div align="left">
-<a href="https://x.com/Gm_Abhishek_" target="_blank">
-<img src="https://github.com/GmAbhishek/GmAbhishek/raw/main/X.svg" height="50" style="margin: 10px;" alt="X SVG" />
-</a>&nbsp;
+## Connect with me
 
-<a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
-<img  src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png"  height="50" margin="10px" alt="LinkedIn"/>
-</a>&nbsp;
-<a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-<img src="https://gmabhishek.github.io/Images/Instagram.png"  height="50" margin="10px" alt="Instagram"/>
-</a>  
-</div>  
+<p align="center">
+  <a href="https://x.com/Gm_Abhishek_" target="_blank">
+    <img src="https://github.com/GmAbhishek/GmAbhishek/raw/main/X.svg" height="50" style="margin-right: 10px;" alt="X SVG" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
+    <img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png" height="50" style="margin-right: 10px;" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
+    <img src="https://gmabhishek.github.io/Images/Instagram.png" height="50" style="margin-right: 10px;" alt="Instagram" />
+  </a>
+</p>
 
-<br/>
 ## Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&theme=holi" alt="Top Languages" />
 </p>
 
-<br/>  
 
 ## <div align="center">Tune in with me</div>
   
