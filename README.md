@@ -32,9 +32,9 @@
 ## Connect with me
 
 <p>
-  <a href="https://github.com/GmAbhishek/GmAbhishek/blob/main/X.svg" target="_blank">
-    <img src="X.svg" height="50" style="margin-right: 10px;" alt="X SVG" />
-  </a>
+<a href="https://github.com/GmAbhishek/GmAbhishek/blob/main/X.svg" target="_blank">
+  <img src="https://raw.githubusercontent.com/GmAbhishek/GmAbhishek/main/X.svg" height="50" style="margin-right: 10px;" alt="X SVG" />
+</a>
   
   <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
     <img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png" height="50" style="margin-right: 10px;" alt="LinkedIn" />
