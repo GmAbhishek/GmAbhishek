@@ -31,9 +31,9 @@
 
 ## Connect with me
 
-<p align="center">
-  <a href="https://x.com/Gm_Abhishek_" target="_blank">
-    <img src="https://github.com/GmAbhishek/GmAbhishek/raw/main/X.svg" height="50" style="margin-right: 10px;" alt="X SVG" />
+<p>
+  <a href="https://github.com/GmAbhishek/GmAbhishek/blob/main/X.svg" target="_blank">
+    <img src="X.svg" height="50" style="margin-right: 10px;" alt="X SVG" />
   </a>
   
   <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
