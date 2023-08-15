@@ -42,7 +42,8 @@
 </a>  
 </div>  
 
-
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&theme=tokyonight)
 <br/>  
 
 ## <div align="center">Tune in with me</div>
