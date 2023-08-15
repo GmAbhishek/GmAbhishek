@@ -31,19 +31,26 @@
 
 ## Connect with me
 
-<p>
-<a href="https://X.com/Gm_Abhishek_" target="_blank">
-  <img src="https://gmabhishek.github.io/Images/X.png" height="70" style="margin-right: 10px;" alt="X PNG" />
-</a>
+<ul style="list-style-type: none; display: flex; justify-content: center; align-items: center;">
+  <li style="margin-right: 10px;">
+    <a href="https://X.com/Gm_Abhishek_" target="_blank">
+      <img src="https://gmabhishek.github.io/Images/X.png" height="50" alt="X PNG" />
+    </a>
+  </li>
   
-  <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
-    <img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png" height="50" style="margin-right: 10px;" alt="LinkedIn" />
-  </a>
+  <li style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
+      <img src="https://www.pngmart.com/files/21/Linkedin-In-Logo-PNG-Isolated-Photos.png" height="50" alt="LinkedIn" />
+    </a>
+  </li>
   
-  <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-    <img src="https://gmabhishek.github.io/Images/Instagram.png" height="50" style="margin-right: 10px;" alt="Instagram" />
-  </a>
-</p>
+  <li style="margin-right: 10px;">
+    <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
+      <img src="https://gmabhishek.github.io/Images/Instagram.png" height="50" alt="Instagram" />
+    </a>
+  </li>
+</ul>
+
 
 ## Languages
 
