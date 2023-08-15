@@ -32,7 +32,7 @@
 ## Connect with me
 
 <p>
-<a href="https://github.com/GmAbhishek/GmAbhishek/blob/main/X.svg" target="_blank">
+<a href="https://github.com/GmAbhishek/GmAbhishek/X.png" target="_blank">
   <img src="https://raw.githubusercontent.com/GmAbhishek/GmAbhishek/main/X.svg" height="50" style="margin-right: 10px;" alt="X SVG" />
 </a>
   
