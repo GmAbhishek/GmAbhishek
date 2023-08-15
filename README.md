@@ -33,7 +33,7 @@
 
 <p>
 <a href="https://X.com/Gm_Abhishek_" target="_blank">
-  <img src="X.png" height="50" style="margin-right: 10px;" alt="X PNG" />
+  <img src="https://gmabhishek.github.io/Images/X.png" height="50" style="margin-right: 10px;" alt="X PNG" />
 </a>
   
   <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
