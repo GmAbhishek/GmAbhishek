@@ -33,7 +33,7 @@
 
 <p>
 <a href="https://X.com/Gm_Abhishek_" target="_blank">
-  <img src="https://gmabhishek.github.io/Images/X.png" height="50" style="margin-right: 10px;" alt="X PNG" />
+  <img src="/X.png" height="50" style="margin-right: 10px;" alt="X" />
 </a>
   
   <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
@@ -41,7 +41,7 @@
   </a>
   
   <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-    <img src="https://gmabhishek.github.io/Images/Instagram.png" height="50" style="margin-right: 10px;" alt="Instagram" />
+    <img src="/Instagram.png" height="50" style="margin-right: 10px;" alt="Instagram" />
   </a>
 </p>
 
