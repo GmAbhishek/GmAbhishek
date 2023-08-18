@@ -33,15 +33,15 @@
 
 <p>
 <a href="https://X.com/Gm_Abhishek_" target="_blank">
-  <img src="https://gmabhishek.github.io/Image-hoster/Images/X.png" height="50" style="margin-right: 20px;" alt="X" />
+  <img src="https://gmabhishek.github.io/Image-hoster/Images/X.png" height="50" style="margin-right: 20;" alt="X" />
 </a>
   
   <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank">
-    <img src="https://gmabhishek.github.io/Image-hoster/Images/LinkedIn.png" height="50" style="margin-right: 20px;" alt="LinkedIn" />
+    <img src="https://gmabhishek.github.io/Image-hoster/Images/LinkedIn.png" height="50" style="margin-right: 20;" alt="LinkedIn" />
   </a>
   
   <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
-    <img src="https://gmabhishek.github.io/Image-hoster/Images/Instagram.png" height="50" style="margin-right: 20px;" alt="Instagram" />
+    <img src="https://gmabhishek.github.io/Image-hoster/Images/Instagram.png" height="50" style="margin-right: 20;" alt="Instagram" />
   </a>
 </p>
 
