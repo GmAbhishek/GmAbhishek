@@ -34,11 +34,11 @@
 <p>
   <a href="https://X.com/Gm_Abhishek_" target="_blank" style="margin-right: 10px;">
     <img src="https://gmabhishek.github.io/Image-hoster/Images/X.png" height="50" alt="X" />
-  </a>
+  </a>&nbsp;
   
   <a href="https://www.linkedin.com/in/gm-abhishek-a39348224" target="_blank" style="margin-right: 10px;">
     <img src="https://gmabhishek.github.io/Image-hoster/Images/LinkedIn.png" height="50" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;
   
   <a href="https://instagram.com/g.m_a.b.h.i.s.h.e.k" target="_blank">
     <img src="https://gmabhishek.github.io/Image-hoster/Images/Instagram.png" height="50" alt="Instagram" />
