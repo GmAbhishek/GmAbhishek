@@ -10,7 +10,7 @@
 - 👫 Ready to collaborate with light-minded developers  
   
 
-- ⚡ fact: Coffee + Music + Dark Mode = Lit!🔥
+- ⚡ Facts : Coffee + Music + Dark Mode = Lit!🔥
   
 
 <br/>  
