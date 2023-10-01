@@ -1,10 +1,10 @@
-### <div align="center">I'm Gm_Abhishek, Junior at SKCT👨‍💻 developing web and mobile Apps since 2021🚀</div>  
+### <div align="center">I'm Gm_Abhishek, Pre-Final Year at SKCT👨‍💻 developing web and mobile Apps since 2021🚀</div>  
   
 
 - 🔭 I’m currently learning Solidity.
   
 
-- 🌱 I have learnt Full stack development with React, Spring boot and MySQL  
+- 🌱 I have learned Full stack development with React, Spring boot, and MySQL  
   
 
 - 👫 Ready to collaborate with light-minded developers  
