@@ -14,7 +14,7 @@
 - 👫 Let's chat, connect, and make some coding magic happen! 
   
 
-- ⚡ My Spell (Abracadabra) => { Coffee ☕ + Music 🎵 + Dark Mode 🌙 }
+- ⚡ My Spell (Abracadabra)   =>   { Coffee ☕ + Music 🎵 + Dark Mode 🌙 }
   
 
 <br/>  
