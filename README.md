@@ -1,5 +1,9 @@
-### <div align="center">Hey there! I'm Gm_Abhishek, the Self-Taught Dev Wizard, currently conquering my pre-final year at SKCT🚀</div>
+### <div align="center">Hey there! I'm Gm_Abhishek, the Self-Taught Dev Wizard🪄</div>
 
+
+
+- 👨🏻‍🎓 Currently conquering my pre-final year at SKCT
+- 
   
 - 🔭 I'm playing around with Flutter, cooking up mobile apps. Excited for PR surprises! 😄📱
   
