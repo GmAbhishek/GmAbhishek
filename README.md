@@ -1,16 +1,16 @@
-### <div align="center">I'm Gm_Abhishek, Pre-Final Year at SKCT👨‍💻 developing web and mobile Apps since 2021🚀</div>  
+### <div align="center">Hey there! I'm Gm_Abhishek, the Self-Taught Dev Wizard & student at SKCT🚀</div>
+
+  
+- 🔭 I'm playing around with Flutter, cooking up mobile apps. Excited for PR surprises! 😄📱
   
 
-- 🔭 I’m currently learning Solidity.
+- 🌱 I've dabbled in Full-stack wizardry with React, Spring Boot, and MySQL!
   
 
-- 🌱 I have learned Full stack development with React, Spring boot, and MySQL  
+- 👫 Let's chat, connect, and make some coding magic happen! 
   
 
-- 👫 Ready to collaborate with light-minded developers  
-  
-
-- ⚡ Facts : Coffee + Music + Dark Mode = Lit!🔥
+- ⚡ My Spell (Abracadabra) => { Coffee ☕ + Music 🎵 + Dark Mode 🌙 }
   
 
 <br/>  
