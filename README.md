@@ -37,7 +37,7 @@
 
 ## Languages
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&layout=compact&theme=dracula&hide_border=true)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&layout=compact&theme=dracula&hide_border=true)
  
 
  ## Hacktoberfest
