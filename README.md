@@ -34,9 +34,11 @@
 <br/>  
 
 ## Languages
+<span align="center">
 
-
-<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&layout=compact&theme=dracula&hide_border=true) </div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&layout=compact&theme=dracula&hide_border=true) 
+ 
+ </span>
 
  ## HACKTOBERFEST
  
@@ -44,7 +46,7 @@
 
 ## Connect with me
 
-<p align="center">
+<p>
   <a href="https://X.com/Gm_Abhishek_" target="_blank" style="margin-right: 10px;">
     <img src="https://gmabhishek.github.io/Image-hoster/Images/X.png" height="50" alt="X" />
   </a> &nbsp; &nbsp;
