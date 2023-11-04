@@ -1,6 +1,7 @@
 <!-- ### <div align="center">Hey there! I'm Gm_Abhishek, the Self-Taught Dev Wizard🪄</div> -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=10&duration=3000&pause=1000&color=ff80df&center=true&random=false&width=435&lines=Hey+there!+I'm+Gm_Abhishek%2C+the+Self-Taught+Dev+Wizard%F0%9F%AA%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff80df&random=false&width=435&lines=Hey+there!)](https://www.gmabhishek.tech)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=18&pause=1000&color=4799FF&random=false&width=435&lines=I'm+Gm_Abhishek%2C+the+Self-Taught+Dev+Wizard%F0%9F%AA%84)](https://www.gmabhishek.tech)
 
 
 - 👨🏻‍🎓 Currently conquering my pre-final year at SKCT
