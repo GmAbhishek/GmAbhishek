@@ -33,6 +33,11 @@
 
 <br/>  
 
+## Languages
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&layout=compact&theme=dracula&hide_border=true)
+
  ## HACKTOBERFEST
  
 [![An image of @gmabhishek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gmabhishek)](https://holopin.io/@gmabhishek)
@@ -54,11 +59,6 @@
 </p>
 
 
-
-## Languages
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&layout=compact&theme=dracula&hide_border=true)
 
 ## <div align="center">Tune in with me</div>
   
