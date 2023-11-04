@@ -38,7 +38,7 @@
 ## Languages
 <span align="center">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&layout=compact&theme=dracula&hide_border=true&width=600) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GmAbhishek&layout=compact&theme=dracula&hide_border=true&width=6000) 
  
  </span>
 
