@@ -5,10 +5,10 @@
 
 </div>
 
-- 👨🏻‍🎓 Currently conquering my pre-final year at SKCT
+- 👨🏻‍🎓 Currently conquering my Senior Year at SKCT
   
   
-- 🔭 I'm playing around with Flutter, cooking up mobile apps. Excited for PR surprises! 😄📱
+- 🔭 I'm playing around with Flutter, cooking up mobile apps. Excited about PR surprises! 😄📱
   
 
 - 🌱 I've dabbled in Full-stack wizardry with React, Spring Boot, and MySQL!
