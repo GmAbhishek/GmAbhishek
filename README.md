@@ -66,7 +66,7 @@
   
 <div align="center">
   <a href="https://open.spotify.com/user/31tb2rg3vnytlj3g4rujpcldwrry?si=c78dc6749d624c85">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31tb2rg3vnytlj3g4rujpcldwrry&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=08f000&bar_color_cover=true" />
   </a>
 </div>
 
